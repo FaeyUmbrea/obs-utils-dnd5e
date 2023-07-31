@@ -9,12 +9,12 @@ import { transform } from 'esbuild';
 
 // For convenience, you just need to modify the package ID below as it is used to fill in default proxy settings for
 // the dev server.
-const s_PACKAGE_ID = 'modules/tbe';
+const s_PACKAGE_ID = 'modules/obs-utils-dnd5e';
 
 // A short additional string to add to Svelte CSS hash values to make yours unique. This reduces the amount of
 // duplicated framework CSS overlap between many TRL packages enabled on Foundry VTT at the same time. 'ese' is chosen
 // by shortening 'essential-svelte-esm'.
-const s_SVELTE_HASH_ID = 'tbe';
+const s_SVELTE_HASH_ID = 'obsu5e';
 
 const s_TERSER = false; // Set to true to use terser
 const s_SOURCEMAPS = true; // Generate sourcemaps for the bundle (recommended).

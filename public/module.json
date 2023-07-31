@@ -1,6 +1,6 @@
 {
-  "id": "tbe",
-  "title": "TBE",
+  "id": "obs-utils-dnd5",
+  "title": "OBS Utils - D&D 5E",
   "description": "",
   "version": "This is auto replaced",
   "library": "false",
@@ -18,13 +18,6 @@
     }
   ],
   "esmodules": ["index.js"],
-  "languages": [
-    {
-      "lang": "en",
-      "name": "English",
-      "path": "languages/en.json"
-    }
-  ],
   "url": "This is auto replaced",
   "socket": true,
   "manifest": "This is auto replaced",
@@ -40,8 +33,15 @@
   "relationships": {
     "requires": [
       {
-        "id": "lib-wrapper",
-        "type": "module"
+        "id": "obs-utils",
+        "type": "module",
+        "compatibility": {
+          "minimum": "2.4.0"
+        }
+      },
+      {
+        "id": "dnd5e",
+        "type": "system"
       }
     ]
   }
