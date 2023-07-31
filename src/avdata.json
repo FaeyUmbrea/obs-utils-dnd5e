@@ -1,0 +1,1118 @@
+[
+  {
+    "value": "name",
+    "label": "obs-utils-dnd5e.labels.name"
+  },
+  {
+    "value": "type",
+    "label": "obs-utils-dnd5e.labels.type"
+  },
+  {
+    "value": "_id",
+    "label": "obs-utils-dnd5e.labels._id"
+  },
+  {
+    "value": "img",
+    "label": "obs-utils-dnd5e.labels.img"
+  },
+  {
+    "value": "system.currency.pp",
+    "label": "obs-utils-dnd5e.labels.system-currency-pp"
+  },
+  {
+    "value": "system.currency.gp",
+    "label": "obs-utils-dnd5e.labels.system-currency-gp"
+  },
+  {
+    "value": "system.currency.ep",
+    "label": "obs-utils-dnd5e.labels.system-currency-ep"
+  },
+  {
+    "value": "system.currency.sp",
+    "label": "obs-utils-dnd5e.labels.system-currency-sp"
+  },
+  {
+    "value": "system.currency.cp",
+    "label": "obs-utils-dnd5e.labels.system-currency-cp"
+  },
+  {
+    "value": "system.abilities.str.value",
+    "label": "obs-utils-dnd5e.labels.system-abilities-str-value"
+  },
+  {
+    "value": "system.abilities.str.proficient",
+    "label": "obs-utils-dnd5e.labels.system-abilities-str-proficient"
+  },
+  {
+    "value": "system.abilities.str.bonuses.check",
+    "label": "obs-utils-dnd5e.labels.system-abilities-str-bonuses-check"
+  },
+  {
+    "value": "system.abilities.str.bonuses.save",
+    "label": "obs-utils-dnd5e.labels.system-abilities-str-bonuses-save"
+  },
+  {
+    "value": "system.abilities.dex.value",
+    "label": "obs-utils-dnd5e.labels.system-abilities-dex-value"
+  },
+  {
+    "value": "system.abilities.dex.proficient",
+    "label": "obs-utils-dnd5e.labels.system-abilities-dex-proficient"
+  },
+  {
+    "value": "system.abilities.dex.bonuses.check",
+    "label": "obs-utils-dnd5e.labels.system-abilities-dex-bonuses-check"
+  },
+  {
+    "value": "system.abilities.dex.bonuses.save",
+    "label": "obs-utils-dnd5e.labels.system-abilities-dex-bonuses-save"
+  },
+  {
+    "value": "system.abilities.con.value",
+    "label": "obs-utils-dnd5e.labels.system-abilities-con-value"
+  },
+  {
+    "value": "system.abilities.con.proficient",
+    "label": "obs-utils-dnd5e.labels.system-abilities-con-proficient"
+  },
+  {
+    "value": "system.abilities.con.bonuses.check",
+    "label": "obs-utils-dnd5e.labels.system-abilities-con-bonuses-check"
+  },
+  {
+    "value": "system.abilities.con.bonuses.save",
+    "label": "obs-utils-dnd5e.labels.system-abilities-con-bonuses-save"
+  },
+  {
+    "value": "system.abilities.int.value",
+    "label": "obs-utils-dnd5e.labels.system-abilities-int-value"
+  },
+  {
+    "value": "system.abilities.int.proficient",
+    "label": "obs-utils-dnd5e.labels.system-abilities-int-proficient"
+  },
+  {
+    "value": "system.abilities.int.bonuses.check",
+    "label": "obs-utils-dnd5e.labels.system-abilities-int-bonuses-check"
+  },
+  {
+    "value": "system.abilities.int.bonuses.save",
+    "label": "obs-utils-dnd5e.labels.system-abilities-int-bonuses-save"
+  },
+  {
+    "value": "system.abilities.wis.value",
+    "label": "obs-utils-dnd5e.labels.system-abilities-wis-value"
+  },
+  {
+    "value": "system.abilities.wis.proficient",
+    "label": "obs-utils-dnd5e.labels.system-abilities-wis-proficient"
+  },
+  {
+    "value": "system.abilities.wis.bonuses.check",
+    "label": "obs-utils-dnd5e.labels.system-abilities-wis-bonuses-check"
+  },
+  {
+    "value": "system.abilities.wis.bonuses.save",
+    "label": "obs-utils-dnd5e.labels.system-abilities-wis-bonuses-save"
+  },
+  {
+    "value": "system.abilities.cha.value",
+    "label": "obs-utils-dnd5e.labels.system-abilities-cha-value"
+  },
+  {
+    "value": "system.abilities.cha.proficient",
+    "label": "obs-utils-dnd5e.labels.system-abilities-cha-proficient"
+  },
+  {
+    "value": "system.abilities.cha.bonuses.check",
+    "label": "obs-utils-dnd5e.labels.system-abilities-cha-bonuses-check"
+  },
+  {
+    "value": "system.abilities.cha.bonuses.save",
+    "label": "obs-utils-dnd5e.labels.system-abilities-cha-bonuses-save"
+  },
+  {
+    "value": "system.bonuses.mwak.attack",
+    "label": "obs-utils-dnd5e.labels.system-bonuses-mwak-attack"
+  },
+  {
+    "value": "system.bonuses.mwak.damage",
+    "label": "obs-utils-dnd5e.labels.system-bonuses-mwak-damage"
+  },
+  {
+    "value": "system.bonuses.rwak.attack",
+    "label": "obs-utils-dnd5e.labels.system-bonuses-rwak-attack"
+  },
+  {
+    "value": "system.bonuses.rwak.damage",
+    "label": "obs-utils-dnd5e.labels.system-bonuses-rwak-damage"
+  },
+  {
+    "value": "system.bonuses.msak.attack",
+    "label": "obs-utils-dnd5e.labels.system-bonuses-msak-attack"
+  },
+  {
+    "value": "system.bonuses.msak.damage",
+    "label": "obs-utils-dnd5e.labels.system-bonuses-msak-damage"
+  },
+  {
+    "value": "system.bonuses.rsak.attack",
+    "label": "obs-utils-dnd5e.labels.system-bonuses-rsak-attack"
+  },
+  {
+    "value": "system.bonuses.rsak.damage",
+    "label": "obs-utils-dnd5e.labels.system-bonuses-rsak-damage"
+  },
+  {
+    "value": "system.bonuses.abilities.check",
+    "label": "obs-utils-dnd5e.labels.system-bonuses-abilities-check"
+  },
+  {
+    "value": "system.bonuses.abilities.save",
+    "label": "obs-utils-dnd5e.labels.system-bonuses-abilities-save"
+  },
+  {
+    "value": "system.bonuses.abilities.skill",
+    "label": "obs-utils-dnd5e.labels.system-bonuses-abilities-skill"
+  },
+  {
+    "value": "system.bonuses.spell.dc",
+    "label": "obs-utils-dnd5e.labels.system-bonuses-spell-dc"
+  },
+  {
+    "value": "system.skills.acr.value",
+    "label": "obs-utils-dnd5e.labels.system-skills-acr-value"
+  },
+  {
+    "value": "system.skills.acr.ability",
+    "label": "obs-utils-dnd5e.labels.system-skills-acr-ability"
+  },
+  {
+    "value": "system.skills.acr.bonuses.check",
+    "label": "obs-utils-dnd5e.labels.system-skills-acr-bonuses-check"
+  },
+  {
+    "value": "system.skills.acr.bonuses.passive",
+    "label": "obs-utils-dnd5e.labels.system-skills-acr-bonuses-passive"
+  },
+  {
+    "value": "system.skills.ani.value",
+    "label": "obs-utils-dnd5e.labels.system-skills-ani-value"
+  },
+  {
+    "value": "system.skills.ani.ability",
+    "label": "obs-utils-dnd5e.labels.system-skills-ani-ability"
+  },
+  {
+    "value": "system.skills.ani.bonuses.check",
+    "label": "obs-utils-dnd5e.labels.system-skills-ani-bonuses-check"
+  },
+  {
+    "value": "system.skills.ani.bonuses.passive",
+    "label": "obs-utils-dnd5e.labels.system-skills-ani-bonuses-passive"
+  },
+  {
+    "value": "system.skills.arc.value",
+    "label": "obs-utils-dnd5e.labels.system-skills-arc-value"
+  },
+  {
+    "value": "system.skills.arc.ability",
+    "label": "obs-utils-dnd5e.labels.system-skills-arc-ability"
+  },
+  {
+    "value": "system.skills.arc.bonuses.check",
+    "label": "obs-utils-dnd5e.labels.system-skills-arc-bonuses-check"
+  },
+  {
+    "value": "system.skills.arc.bonuses.passive",
+    "label": "obs-utils-dnd5e.labels.system-skills-arc-bonuses-passive"
+  },
+  {
+    "value": "system.skills.ath.value",
+    "label": "obs-utils-dnd5e.labels.system-skills-ath-value"
+  },
+  {
+    "value": "system.skills.ath.ability",
+    "label": "obs-utils-dnd5e.labels.system-skills-ath-ability"
+  },
+  {
+    "value": "system.skills.ath.bonuses.check",
+    "label": "obs-utils-dnd5e.labels.system-skills-ath-bonuses-check"
+  },
+  {
+    "value": "system.skills.ath.bonuses.passive",
+    "label": "obs-utils-dnd5e.labels.system-skills-ath-bonuses-passive"
+  },
+  {
+    "value": "system.skills.dec.value",
+    "label": "obs-utils-dnd5e.labels.system-skills-dec-value"
+  },
+  {
+    "value": "system.skills.dec.ability",
+    "label": "obs-utils-dnd5e.labels.system-skills-dec-ability"
+  },
+  {
+    "value": "system.skills.dec.bonuses.check",
+    "label": "obs-utils-dnd5e.labels.system-skills-dec-bonuses-check"
+  },
+  {
+    "value": "system.skills.dec.bonuses.passive",
+    "label": "obs-utils-dnd5e.labels.system-skills-dec-bonuses-passive"
+  },
+  {
+    "value": "system.skills.his.value",
+    "label": "obs-utils-dnd5e.labels.system-skills-his-value"
+  },
+  {
+    "value": "system.skills.his.ability",
+    "label": "obs-utils-dnd5e.labels.system-skills-his-ability"
+  },
+  {
+    "value": "system.skills.his.bonuses.check",
+    "label": "obs-utils-dnd5e.labels.system-skills-his-bonuses-check"
+  },
+  {
+    "value": "system.skills.his.bonuses.passive",
+    "label": "obs-utils-dnd5e.labels.system-skills-his-bonuses-passive"
+  },
+  {
+    "value": "system.skills.ins.value",
+    "label": "obs-utils-dnd5e.labels.system-skills-ins-value"
+  },
+  {
+    "value": "system.skills.ins.ability",
+    "label": "obs-utils-dnd5e.labels.system-skills-ins-ability"
+  },
+  {
+    "value": "system.skills.ins.bonuses.check",
+    "label": "obs-utils-dnd5e.labels.system-skills-ins-bonuses-check"
+  },
+  {
+    "value": "system.skills.ins.bonuses.passive",
+    "label": "obs-utils-dnd5e.labels.system-skills-ins-bonuses-passive"
+  },
+  {
+    "value": "system.skills.itm.value",
+    "label": "obs-utils-dnd5e.labels.system-skills-itm-value"
+  },
+  {
+    "value": "system.skills.itm.ability",
+    "label": "obs-utils-dnd5e.labels.system-skills-itm-ability"
+  },
+  {
+    "value": "system.skills.itm.bonuses.check",
+    "label": "obs-utils-dnd5e.labels.system-skills-itm-bonuses-check"
+  },
+  {
+    "value": "system.skills.itm.bonuses.passive",
+    "label": "obs-utils-dnd5e.labels.system-skills-itm-bonuses-passive"
+  },
+  {
+    "value": "system.skills.inv.value",
+    "label": "obs-utils-dnd5e.labels.system-skills-inv-value"
+  },
+  {
+    "value": "system.skills.inv.ability",
+    "label": "obs-utils-dnd5e.labels.system-skills-inv-ability"
+  },
+  {
+    "value": "system.skills.inv.bonuses.check",
+    "label": "obs-utils-dnd5e.labels.system-skills-inv-bonuses-check"
+  },
+  {
+    "value": "system.skills.inv.bonuses.passive",
+    "label": "obs-utils-dnd5e.labels.system-skills-inv-bonuses-passive"
+  },
+  {
+    "value": "system.skills.med.value",
+    "label": "obs-utils-dnd5e.labels.system-skills-med-value"
+  },
+  {
+    "value": "system.skills.med.ability",
+    "label": "obs-utils-dnd5e.labels.system-skills-med-ability"
+  },
+  {
+    "value": "system.skills.med.bonuses.check",
+    "label": "obs-utils-dnd5e.labels.system-skills-med-bonuses-check"
+  },
+  {
+    "value": "system.skills.med.bonuses.passive",
+    "label": "obs-utils-dnd5e.labels.system-skills-med-bonuses-passive"
+  },
+  {
+    "value": "system.skills.nat.value",
+    "label": "obs-utils-dnd5e.labels.system-skills-nat-value"
+  },
+  {
+    "value": "system.skills.nat.ability",
+    "label": "obs-utils-dnd5e.labels.system-skills-nat-ability"
+  },
+  {
+    "value": "system.skills.nat.bonuses.check",
+    "label": "obs-utils-dnd5e.labels.system-skills-nat-bonuses-check"
+  },
+  {
+    "value": "system.skills.nat.bonuses.passive",
+    "label": "obs-utils-dnd5e.labels.system-skills-nat-bonuses-passive"
+  },
+  {
+    "value": "system.skills.prc.value",
+    "label": "obs-utils-dnd5e.labels.system-skills-prc-value"
+  },
+  {
+    "value": "system.skills.prc.ability",
+    "label": "obs-utils-dnd5e.labels.system-skills-prc-ability"
+  },
+  {
+    "value": "system.skills.prc.bonuses.check",
+    "label": "obs-utils-dnd5e.labels.system-skills-prc-bonuses-check"
+  },
+  {
+    "value": "system.skills.prc.bonuses.passive",
+    "label": "obs-utils-dnd5e.labels.system-skills-prc-bonuses-passive"
+  },
+  {
+    "value": "system.skills.prf.value",
+    "label": "obs-utils-dnd5e.labels.system-skills-prf-value"
+  },
+  {
+    "value": "system.skills.prf.ability",
+    "label": "obs-utils-dnd5e.labels.system-skills-prf-ability"
+  },
+  {
+    "value": "system.skills.prf.bonuses.check",
+    "label": "obs-utils-dnd5e.labels.system-skills-prf-bonuses-check"
+  },
+  {
+    "value": "system.skills.prf.bonuses.passive",
+    "label": "obs-utils-dnd5e.labels.system-skills-prf-bonuses-passive"
+  },
+  {
+    "value": "system.skills.per.value",
+    "label": "obs-utils-dnd5e.labels.system-skills-per-value"
+  },
+  {
+    "value": "system.skills.per.ability",
+    "label": "obs-utils-dnd5e.labels.system-skills-per-ability"
+  },
+  {
+    "value": "system.skills.per.bonuses.check",
+    "label": "obs-utils-dnd5e.labels.system-skills-per-bonuses-check"
+  },
+  {
+    "value": "system.skills.per.bonuses.passive",
+    "label": "obs-utils-dnd5e.labels.system-skills-per-bonuses-passive"
+  },
+  {
+    "value": "system.skills.rel.value",
+    "label": "obs-utils-dnd5e.labels.system-skills-rel-value"
+  },
+  {
+    "value": "system.skills.rel.ability",
+    "label": "obs-utils-dnd5e.labels.system-skills-rel-ability"
+  },
+  {
+    "value": "system.skills.rel.bonuses.check",
+    "label": "obs-utils-dnd5e.labels.system-skills-rel-bonuses-check"
+  },
+  {
+    "value": "system.skills.rel.bonuses.passive",
+    "label": "obs-utils-dnd5e.labels.system-skills-rel-bonuses-passive"
+  },
+  {
+    "value": "system.skills.slt.value",
+    "label": "obs-utils-dnd5e.labels.system-skills-slt-value"
+  },
+  {
+    "value": "system.skills.slt.ability",
+    "label": "obs-utils-dnd5e.labels.system-skills-slt-ability"
+  },
+  {
+    "value": "system.skills.slt.bonuses.check",
+    "label": "obs-utils-dnd5e.labels.system-skills-slt-bonuses-check"
+  },
+  {
+    "value": "system.skills.slt.bonuses.passive",
+    "label": "obs-utils-dnd5e.labels.system-skills-slt-bonuses-passive"
+  },
+  {
+    "value": "system.skills.ste.value",
+    "label": "obs-utils-dnd5e.labels.system-skills-ste-value"
+  },
+  {
+    "value": "system.skills.ste.ability",
+    "label": "obs-utils-dnd5e.labels.system-skills-ste-ability"
+  },
+  {
+    "value": "system.skills.ste.bonuses.check",
+    "label": "obs-utils-dnd5e.labels.system-skills-ste-bonuses-check"
+  },
+  {
+    "value": "system.skills.ste.bonuses.passive",
+    "label": "obs-utils-dnd5e.labels.system-skills-ste-bonuses-passive"
+  },
+  {
+    "value": "system.skills.sur.value",
+    "label": "obs-utils-dnd5e.labels.system-skills-sur-value"
+  },
+  {
+    "value": "system.skills.sur.ability",
+    "label": "obs-utils-dnd5e.labels.system-skills-sur-ability"
+  },
+  {
+    "value": "system.skills.sur.bonuses.check",
+    "label": "obs-utils-dnd5e.labels.system-skills-sur-bonuses-check"
+  },
+  {
+    "value": "system.skills.sur.bonuses.passive",
+    "label": "obs-utils-dnd5e.labels.system-skills-sur-bonuses-passive"
+  },
+  {
+    "value": "system.tools",
+    "label": "obs-utils-dnd5e.labels.system-tools"
+  },
+  {
+    "value": "system.spells.spell1.value",
+    "label": "obs-utils-dnd5e.labels.system-spells-spell1-value"
+  },
+  {
+    "value": "system.spells.spell1.override",
+    "label": "obs-utils-dnd5e.labels.system-spells-spell1-override"
+  },
+  {
+    "value": "system.spells.spell1.max",
+    "label": "obs-utils-dnd5e.labels.system-spells-spell1-max"
+  },
+  {
+    "value": "system.spells.spell2.value",
+    "label": "obs-utils-dnd5e.labels.system-spells-spell2-value"
+  },
+  {
+    "value": "system.spells.spell2.override",
+    "label": "obs-utils-dnd5e.labels.system-spells-spell2-override"
+  },
+  {
+    "value": "system.spells.spell2.max",
+    "label": "obs-utils-dnd5e.labels.system-spells-spell2-max"
+  },
+  {
+    "value": "system.spells.spell3.value",
+    "label": "obs-utils-dnd5e.labels.system-spells-spell3-value"
+  },
+  {
+    "value": "system.spells.spell3.override",
+    "label": "obs-utils-dnd5e.labels.system-spells-spell3-override"
+  },
+  {
+    "value": "system.spells.spell3.max",
+    "label": "obs-utils-dnd5e.labels.system-spells-spell3-max"
+  },
+  {
+    "value": "system.spells.spell4.value",
+    "label": "obs-utils-dnd5e.labels.system-spells-spell4-value"
+  },
+  {
+    "value": "system.spells.spell4.override",
+    "label": "obs-utils-dnd5e.labels.system-spells-spell4-override"
+  },
+  {
+    "value": "system.spells.spell4.max",
+    "label": "obs-utils-dnd5e.labels.system-spells-spell4-max"
+  },
+  {
+    "value": "system.spells.spell5.value",
+    "label": "obs-utils-dnd5e.labels.system-spells-spell5-value"
+  },
+  {
+    "value": "system.spells.spell5.override",
+    "label": "obs-utils-dnd5e.labels.system-spells-spell5-override"
+  },
+  {
+    "value": "system.spells.spell5.max",
+    "label": "obs-utils-dnd5e.labels.system-spells-spell5-max"
+  },
+  {
+    "value": "system.spells.spell6.value",
+    "label": "obs-utils-dnd5e.labels.system-spells-spell6-value"
+  },
+  {
+    "value": "system.spells.spell6.override",
+    "label": "obs-utils-dnd5e.labels.system-spells-spell6-override"
+  },
+  {
+    "value": "system.spells.spell6.max",
+    "label": "obs-utils-dnd5e.labels.system-spells-spell6-max"
+  },
+  {
+    "value": "system.spells.spell7.value",
+    "label": "obs-utils-dnd5e.labels.system-spells-spell7-value"
+  },
+  {
+    "value": "system.spells.spell7.override",
+    "label": "obs-utils-dnd5e.labels.system-spells-spell7-override"
+  },
+  {
+    "value": "system.spells.spell7.max",
+    "label": "obs-utils-dnd5e.labels.system-spells-spell7-max"
+  },
+  {
+    "value": "system.spells.spell8.value",
+    "label": "obs-utils-dnd5e.labels.system-spells-spell8-value"
+  },
+  {
+    "value": "system.spells.spell8.override",
+    "label": "obs-utils-dnd5e.labels.system-spells-spell8-override"
+  },
+  {
+    "value": "system.spells.spell8.max",
+    "label": "obs-utils-dnd5e.labels.system-spells-spell8-max"
+  },
+  {
+    "value": "system.spells.spell9.value",
+    "label": "obs-utils-dnd5e.labels.system-spells-spell9-value"
+  },
+  {
+    "value": "system.spells.spell9.override",
+    "label": "obs-utils-dnd5e.labels.system-spells-spell9-override"
+  },
+  {
+    "value": "system.spells.spell9.max",
+    "label": "obs-utils-dnd5e.labels.system-spells-spell9-max"
+  },
+  {
+    "value": "system.spells.pact.value",
+    "label": "obs-utils-dnd5e.labels.system-spells-pact-value"
+  },
+  {
+    "value": "system.spells.pact.override",
+    "label": "obs-utils-dnd5e.labels.system-spells-pact-override"
+  },
+  {
+    "value": "system.spells.pact.max",
+    "label": "obs-utils-dnd5e.labels.system-spells-pact-max"
+  },
+  {
+    "value": "system.attributes.init",
+    "label": "obs-utils-dnd5e.labels.system-attributes-init"
+  },
+  {
+    "value": "system.attributes.movement.burrow",
+    "label": "obs-utils-dnd5e.labels.system-attributes-movement-burrow"
+  },
+  {
+    "value": "system.attributes.movement.climb",
+    "label": "obs-utils-dnd5e.labels.system-attributes-movement-climb"
+  },
+  {
+    "value": "system.attributes.movement.fly",
+    "label": "obs-utils-dnd5e.labels.system-attributes-movement-fly"
+  },
+  {
+    "value": "system.attributes.movement.swim",
+    "label": "obs-utils-dnd5e.labels.system-attributes-movement-swim"
+  },
+  {
+    "value": "system.attributes.movement.walk",
+    "label": "obs-utils-dnd5e.labels.system-attributes-movement-walk"
+  },
+  {
+    "value": "system.attributes.movement.units",
+    "label": "obs-utils-dnd5e.labels.system-attributes-movement-units"
+  },
+  {
+    "value": "system.attributes.movement.hover",
+    "label": "obs-utils-dnd5e.labels.system-attributes-movement-hover"
+  },
+  {
+    "value": "system.attributes.attunement.max",
+    "label": "obs-utils-dnd5e.labels.system-attributes-attunement-max"
+  },
+  {
+    "value": "system.attributes.senses.darkvision",
+    "label": "obs-utils-dnd5e.labels.system-attributes-senses-darkvision"
+  },
+  {
+    "value": "system.attributes.senses.blindsight",
+    "label": "obs-utils-dnd5e.labels.system-attributes-senses-blindsight"
+  },
+  {
+    "value": "system.attributes.senses.tremorsense",
+    "label": "obs-utils-dnd5e.labels.system-attributes-senses-tremorsense"
+  },
+  {
+    "value": "system.attributes.senses.truesight",
+    "label": "obs-utils-dnd5e.labels.system-attributes-senses-truesight"
+  },
+  {
+    "value": "system.attributes.senses.units",
+    "label": "obs-utils-dnd5e.labels.system-attributes-senses-units"
+  },
+  {
+    "value": "system.attributes.senses.special",
+    "label": "obs-utils-dnd5e.labels.system-attributes-senses-special"
+  },
+  {
+    "value": "system.attributes.spellcasting",
+    "label": "obs-utils-dnd5e.labels.system-attributes-spellcasting"
+  },
+  {
+    "value": "system.attributes.ac.flat",
+    "label": "obs-utils-dnd5e.labels.system-attributes-ac-flat"
+  },
+  {
+    "value": "system.attributes.ac.calc",
+    "label": "obs-utils-dnd5e.labels.system-attributes-ac-calc"
+  },
+  {
+    "value": "system.attributes.hp.value",
+    "label": "obs-utils-dnd5e.labels.system-attributes-hp-value"
+  },
+  {
+    "value": "system.attributes.hp.max",
+    "label": "obs-utils-dnd5e.labels.system-attributes-hp-max"
+  },
+  {
+    "value": "system.attributes.hp.temp",
+    "label": "obs-utils-dnd5e.labels.system-attributes-hp-temp"
+  },
+  {
+    "value": "system.attributes.hp.tempmax",
+    "label": "obs-utils-dnd5e.labels.system-attributes-hp-tempmax"
+  },
+  {
+    "value": "system.attributes.hp.bonuses",
+    "label": "obs-utils-dnd5e.labels.system-attributes-hp-bonuses"
+  },
+  {
+    "value": "system.attributes.death.success",
+    "label": "obs-utils-dnd5e.labels.system-attributes-death-success"
+  },
+  {
+    "value": "system.attributes.death.failure",
+    "label": "obs-utils-dnd5e.labels.system-attributes-death-failure"
+  },
+  {
+    "value": "system.attributes.exhaustion",
+    "label": "obs-utils-dnd5e.labels.system-attributes-exhaustion"
+  },
+  {
+    "value": "system.attributes.inspiration",
+    "label": "obs-utils-dnd5e.labels.system-attributes-inspiration"
+  },
+  {
+    "value": "system.details.biography.value",
+    "label": "obs-utils-dnd5e.labels.system-details-biography-value"
+  },
+  {
+    "value": "system.details.biography.public",
+    "label": "obs-utils-dnd5e.labels.system-details-biography-public"
+  },
+  {
+    "value": "system.details.alignment",
+    "label": "obs-utils-dnd5e.labels.system-details-alignment"
+  },
+  {
+    "value": "system.details.race",
+    "label": "obs-utils-dnd5e.labels.system-details-race"
+  },
+  {
+    "value": "system.details.background",
+    "label": "obs-utils-dnd5e.labels.system-details-background"
+  },
+  {
+    "value": "system.details.originalClass",
+    "label": "obs-utils-dnd5e.labels.system-details-originalClass"
+  },
+  {
+    "value": "system.details.xp.value",
+    "label": "obs-utils-dnd5e.labels.system-details-xp-value"
+  },
+  {
+    "value": "system.details.appearance",
+    "label": "obs-utils-dnd5e.labels.system-details-appearance"
+  },
+  {
+    "value": "system.details.trait",
+    "label": "obs-utils-dnd5e.labels.system-details-trait"
+  },
+  {
+    "value": "system.details.ideal",
+    "label": "obs-utils-dnd5e.labels.system-details-ideal"
+  },
+  {
+    "value": "system.details.bond",
+    "label": "obs-utils-dnd5e.labels.system-details-bond"
+  },
+  {
+    "value": "system.details.flaw",
+    "label": "obs-utils-dnd5e.labels.system-details-flaw"
+  },
+  {
+    "value": "system.traits.size",
+    "label": "obs-utils-dnd5e.labels.system-traits-size"
+  },
+  {
+    "value": "system.traits.di.bypasses",
+    "label": "obs-utils-dnd5e.labels.system-traits-di-bypasses"
+  },
+  {
+    "value": "system.traits.di.value",
+    "label": "obs-utils-dnd5e.labels.system-traits-di-value"
+  },
+  {
+    "value": "system.traits.di.custom",
+    "label": "obs-utils-dnd5e.labels.system-traits-di-custom"
+  },
+  {
+    "value": "system.traits.dr.bypasses",
+    "label": "obs-utils-dnd5e.labels.system-traits-dr-bypasses"
+  },
+  {
+    "value": "system.traits.dr.value",
+    "label": "obs-utils-dnd5e.labels.system-traits-dr-value"
+  },
+  {
+    "value": "system.traits.dr.custom",
+    "label": "obs-utils-dnd5e.labels.system-traits-dr-custom"
+  },
+  {
+    "value": "system.traits.dv.bypasses",
+    "label": "obs-utils-dnd5e.labels.system-traits-dv-bypasses"
+  },
+  {
+    "value": "system.traits.dv.value",
+    "label": "obs-utils-dnd5e.labels.system-traits-dv-value"
+  },
+  {
+    "value": "system.traits.dv.custom",
+    "label": "obs-utils-dnd5e.labels.system-traits-dv-custom"
+  },
+  {
+    "value": "system.traits.ci.value",
+    "label": "obs-utils-dnd5e.labels.system-traits-ci-value"
+  },
+  {
+    "value": "system.traits.ci.custom",
+    "label": "obs-utils-dnd5e.labels.system-traits-ci-custom"
+  },
+  {
+    "value": "system.traits.languages.value",
+    "label": "obs-utils-dnd5e.labels.system-traits-languages-value"
+  },
+  {
+    "value": "system.traits.languages.custom",
+    "label": "obs-utils-dnd5e.labels.system-traits-languages-custom"
+  },
+  {
+    "value": "system.traits.weaponProf.value",
+    "label": "obs-utils-dnd5e.labels.system-traits-weaponProf-value"
+  },
+  {
+    "value": "system.traits.weaponProf.custom",
+    "label": "obs-utils-dnd5e.labels.system-traits-weaponProf-custom"
+  },
+  {
+    "value": "system.traits.armorProf.value",
+    "label": "obs-utils-dnd5e.labels.system-traits-armorProf-value"
+  },
+  {
+    "value": "system.traits.armorProf.custom",
+    "label": "obs-utils-dnd5e.labels.system-traits-armorProf-custom"
+  },
+  {
+    "value": "system.resources.primary.value",
+    "label": "obs-utils-dnd5e.labels.system-resources-primary-value"
+  },
+  {
+    "value": "system.resources.primary.max",
+    "label": "obs-utils-dnd5e.labels.system-resources-primary-max"
+  },
+  {
+    "value": "system.resources.primary.sr",
+    "label": "obs-utils-dnd5e.labels.system-resources-primary-sr"
+  },
+  {
+    "value": "system.resources.primary.lr",
+    "label": "obs-utils-dnd5e.labels.system-resources-primary-lr"
+  },
+  {
+    "value": "system.resources.primary.label",
+    "label": "obs-utils-dnd5e.labels.system-resources-primary-label"
+  },
+  {
+    "value": "system.resources.secondary.value",
+    "label": "obs-utils-dnd5e.labels.system-resources-secondary-value"
+  },
+  {
+    "value": "system.resources.secondary.max",
+    "label": "obs-utils-dnd5e.labels.system-resources-secondary-max"
+  },
+  {
+    "value": "system.resources.secondary.sr",
+    "label": "obs-utils-dnd5e.labels.system-resources-secondary-sr"
+  },
+  {
+    "value": "system.resources.secondary.lr",
+    "label": "obs-utils-dnd5e.labels.system-resources-secondary-lr"
+  },
+  {
+    "value": "system.resources.secondary.label",
+    "label": "obs-utils-dnd5e.labels.system-resources-secondary-label"
+  },
+  {
+    "value": "system.resources.tertiary.value",
+    "label": "obs-utils-dnd5e.labels.system-resources-tertiary-value"
+  },
+  {
+    "value": "system.resources.tertiary.max",
+    "label": "obs-utils-dnd5e.labels.system-resources-tertiary-max"
+  },
+  {
+    "value": "system.resources.tertiary.sr",
+    "label": "obs-utils-dnd5e.labels.system-resources-tertiary-sr"
+  },
+  {
+    "value": "system.resources.tertiary.lr",
+    "label": "obs-utils-dnd5e.labels.system-resources-tertiary-lr"
+  },
+  {
+    "value": "system.resources.tertiary.label",
+    "label": "obs-utils-dnd5e.labels.system-resources-tertiary-label"
+  },
+  {
+    "value": "prototypeToken.name",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-name"
+  },
+  {
+    "value": "prototypeToken.displayName",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-displayName"
+  },
+  {
+    "value": "prototypeToken.actorLink",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-actorLink"
+  },
+  {
+    "value": "prototypeToken.appendNumber",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-appendNumber"
+  },
+  {
+    "value": "prototypeToken.prependAdjective",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-prependAdjective"
+  },
+  {
+    "value": "prototypeToken.texture.src",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-texture-src"
+  },
+  {
+    "value": "prototypeToken.texture.scaleX",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-texture-scaleX"
+  },
+  {
+    "value": "prototypeToken.texture.scaleY",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-texture-scaleY"
+  },
+  {
+    "value": "prototypeToken.texture.offsetX",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-texture-offsetX"
+  },
+  {
+    "value": "prototypeToken.texture.offsetY",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-texture-offsetY"
+  },
+  {
+    "value": "prototypeToken.texture.rotation",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-texture-rotation"
+  },
+  {
+    "value": "prototypeToken.width",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-width"
+  },
+  {
+    "value": "prototypeToken.height",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-height"
+  },
+  {
+    "value": "prototypeToken.lockRotation",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-lockRotation"
+  },
+  {
+    "value": "prototypeToken.rotation",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-rotation"
+  },
+  {
+    "value": "prototypeToken.alpha",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-alpha"
+  },
+  {
+    "value": "prototypeToken.disposition",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-disposition"
+  },
+  {
+    "value": "prototypeToken.displayBars",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-displayBars"
+  },
+  {
+    "value": "prototypeToken.bar1.attribute",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-bar1-attribute"
+  },
+  {
+    "value": "prototypeToken.bar2.attribute",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-bar2-attribute"
+  },
+  {
+    "value": "prototypeToken.light.alpha",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-light-alpha"
+  },
+  {
+    "value": "prototypeToken.light.angle",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-light-angle"
+  },
+  {
+    "value": "prototypeToken.light.bright",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-light-bright"
+  },
+  {
+    "value": "prototypeToken.light.coloration",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-light-coloration"
+  },
+  {
+    "value": "prototypeToken.light.dim",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-light-dim"
+  },
+  {
+    "value": "prototypeToken.light.attenuation",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-light-attenuation"
+  },
+  {
+    "value": "prototypeToken.light.luminosity",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-light-luminosity"
+  },
+  {
+    "value": "prototypeToken.light.saturation",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-light-saturation"
+  },
+  {
+    "value": "prototypeToken.light.contrast",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-light-contrast"
+  },
+  {
+    "value": "prototypeToken.light.shadows",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-light-shadows"
+  },
+  {
+    "value": "prototypeToken.light.animation.type",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-light-animation-type"
+  },
+  {
+    "value": "prototypeToken.light.animation.speed",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-light-animation-speed"
+  },
+  {
+    "value": "prototypeToken.light.animation.intensity",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-light-animation-intensity"
+  },
+  {
+    "value": "prototypeToken.light.animation.reverse",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-light-animation-reverse"
+  },
+  {
+    "value": "prototypeToken.light.darkness.min",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-light-darkness-min"
+  },
+  {
+    "value": "prototypeToken.light.darkness.max",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-light-darkness-max"
+  },
+  {
+    "value": "prototypeToken.sight.enabled",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-sight-enabled"
+  },
+  {
+    "value": "prototypeToken.sight.range",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-sight-range"
+  },
+  {
+    "value": "prototypeToken.sight.angle",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-sight-angle"
+  },
+  {
+    "value": "prototypeToken.sight.visionMode",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-sight-visionMode"
+  },
+  {
+    "value": "prototypeToken.sight.attenuation",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-sight-attenuation"
+  },
+  {
+    "value": "prototypeToken.sight.brightness",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-sight-brightness"
+  },
+  {
+    "value": "prototypeToken.sight.saturation",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-sight-saturation"
+  },
+  {
+    "value": "prototypeToken.sight.contrast",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-sight-contrast"
+  },
+  {
+    "value": "prototypeToken.detectionModes",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-detectionModes"
+  },
+  {
+    "value": "prototypeToken.flags",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-flags"
+  },
+  {
+    "value": "prototypeToken.randomImg",
+    "label": "obs-utils-dnd5e.labels.prototypeToken-randomImg"
+  },
+  {
+    "value": "items",
+    "label": "obs-utils-dnd5e.labels.items"
+  },
+  {
+    "value": "effects",
+    "label": "obs-utils-dnd5e.labels.effects"
+  },
+  {
+    "value": "folder",
+    "label": "obs-utils-dnd5e.labels.folder"
+  },
+  {
+    "value": "sort",
+    "label": "obs-utils-dnd5e.labels.sort"
+  },
+  {
+    "value": "ownership.default",
+    "label": "obs-utils-dnd5e.labels.ownership-default"
+  },
+  {
+    "value": "flags",
+    "label": "obs-utils-dnd5e.labels.flags"
+  },
+  {
+    "value": "_stats.systemId",
+    "label": "obs-utils-dnd5e.labels._stats-systemId"
+  },
+  {
+    "value": "_stats.systemVersion",
+    "label": "obs-utils-dnd5e.labels._stats-systemVersion"
+  },
+  {
+    "value": "_stats.coreVersion",
+    "label": "obs-utils-dnd5e.labels._stats-coreVersion"
+  },
+  {
+    "value": "_stats.createdTime",
+    "label": "obs-utils-dnd5e.labels._stats-createdTime"
+  },
+  {
+    "value": "_stats.modifiedTime",
+    "label": "obs-utils-dnd5e.labels._stats-modifiedTime"
+  },
+  {
+    "value": "_stats.lastModifiedBy",
+    "label": "obs-utils-dnd5e.labels._stats-lastModifiedBy"
+  }
+]
