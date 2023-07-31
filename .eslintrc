@@ -1,0 +1,57 @@
+{
+  "extends": [
+    "eslint:recommended",
+    "plugin:@typescript-eslint/recommended",
+    "plugin:svelte/prettier",
+    "prettier"
+  ],
+  "plugins": [
+    "prettier",
+    "@typescript-eslint"
+  ],
+  "rules": {
+    "prettier/prettier": [
+      "error"
+    ],
+    "@typescript-eslint/ban-ts-comment": "warn"
+  },
+  "ignorePatterns": [
+    "dist/*"
+  ],
+  "parserOptions": {
+    "sourceType": "module",
+    "ecmaVersion": "latest",
+    "extraFileExtensions": [
+      ".svelte"
+    ],
+    "project": "./tsconfig.json"
+  },
+  "env": {
+    "browser": true
+  },
+  "globals": {
+    "game": true,
+    "io": true,
+    "Hooks": true,
+    "ui": true,
+    "foundry": true,
+    "$": true,
+    "FormApplication": true
+  },
+  "parser": "@typescript-eslint/parser",
+  "root": true,
+  "overrides": [
+    {
+      "files": [
+        "*.svelte"
+      ],
+      "parser": "svelte-eslint-parser",
+      "parserOptions": {
+        // Specify a parser for each lang.
+        "ts": "@typescript-eslint/parser",
+        "js": "espree",
+        "typescript": "@typescript-eslint/parser"
+      }
+    }
+  ]
+}
