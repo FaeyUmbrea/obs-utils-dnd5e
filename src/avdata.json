@@ -8,12 +8,28 @@
     "label": "obs-utils-dnd5e.labels.type"
   },
   {
-    "value": "_id",
-    "label": "obs-utils-dnd5e.labels._id"
-  },
-  {
     "value": "img",
     "label": "obs-utils-dnd5e.labels.img"
+  },
+  {
+    "value": "system.attributes.hp.value",
+    "label": "obs-utils-dnd5e.labels.system-attributes-hp-value"
+  },
+  {
+    "value": "system.attributes.hp.max",
+    "label": "obs-utils-dnd5e.labels.system-attributes-hp-max"
+  },
+  {
+    "value": "system.attributes.hp.temp",
+    "label": "obs-utils-dnd5e.labels.system-attributes-hp-temp"
+  },
+  {
+    "value": "system.attributes.hp.tempmax",
+    "label": "obs-utils-dnd5e.labels.system-attributes-hp-tempmax"
+  },
+  {
+    "value": "system.attributes.hp.bonuses",
+    "label": "obs-utils-dnd5e.labels.system-attributes-hp-bonuses"
   },
   {
     "value": "system.currency.pp",
@@ -664,26 +680,6 @@
     "label": "obs-utils-dnd5e.labels.system-attributes-ac-calc"
   },
   {
-    "value": "system.attributes.hp.value",
-    "label": "obs-utils-dnd5e.labels.system-attributes-hp-value"
-  },
-  {
-    "value": "system.attributes.hp.max",
-    "label": "obs-utils-dnd5e.labels.system-attributes-hp-max"
-  },
-  {
-    "value": "system.attributes.hp.temp",
-    "label": "obs-utils-dnd5e.labels.system-attributes-hp-temp"
-  },
-  {
-    "value": "system.attributes.hp.tempmax",
-    "label": "obs-utils-dnd5e.labels.system-attributes-hp-tempmax"
-  },
-  {
-    "value": "system.attributes.hp.bonuses",
-    "label": "obs-utils-dnd5e.labels.system-attributes-hp-bonuses"
-  },
-  {
     "value": "system.attributes.death.success",
     "label": "obs-utils-dnd5e.labels.system-attributes-death-success"
   },
@@ -892,180 +888,8 @@
     "label": "obs-utils-dnd5e.labels.prototypeToken-actorLink"
   },
   {
-    "value": "prototypeToken.appendNumber",
-    "label": "obs-utils-dnd5e.labels.prototypeToken-appendNumber"
-  },
-  {
-    "value": "prototypeToken.prependAdjective",
-    "label": "obs-utils-dnd5e.labels.prototypeToken-prependAdjective"
-  },
-  {
     "value": "prototypeToken.texture.src",
     "label": "obs-utils-dnd5e.labels.prototypeToken-texture-src"
-  },
-  {
-    "value": "prototypeToken.texture.scaleX",
-    "label": "obs-utils-dnd5e.labels.prototypeToken-texture-scaleX"
-  },
-  {
-    "value": "prototypeToken.texture.scaleY",
-    "label": "obs-utils-dnd5e.labels.prototypeToken-texture-scaleY"
-  },
-  {
-    "value": "prototypeToken.texture.offsetX",
-    "label": "obs-utils-dnd5e.labels.prototypeToken-texture-offsetX"
-  },
-  {
-    "value": "prototypeToken.texture.offsetY",
-    "label": "obs-utils-dnd5e.labels.prototypeToken-texture-offsetY"
-  },
-  {
-    "value": "prototypeToken.texture.rotation",
-    "label": "obs-utils-dnd5e.labels.prototypeToken-texture-rotation"
-  },
-  {
-    "value": "prototypeToken.width",
-    "label": "obs-utils-dnd5e.labels.prototypeToken-width"
-  },
-  {
-    "value": "prototypeToken.height",
-    "label": "obs-utils-dnd5e.labels.prototypeToken-height"
-  },
-  {
-    "value": "prototypeToken.lockRotation",
-    "label": "obs-utils-dnd5e.labels.prototypeToken-lockRotation"
-  },
-  {
-    "value": "prototypeToken.rotation",
-    "label": "obs-utils-dnd5e.labels.prototypeToken-rotation"
-  },
-  {
-    "value": "prototypeToken.alpha",
-    "label": "obs-utils-dnd5e.labels.prototypeToken-alpha"
-  },
-  {
-    "value": "prototypeToken.disposition",
-    "label": "obs-utils-dnd5e.labels.prototypeToken-disposition"
-  },
-  {
-    "value": "prototypeToken.displayBars",
-    "label": "obs-utils-dnd5e.labels.prototypeToken-displayBars"
-  },
-  {
-    "value": "prototypeToken.bar1.attribute",
-    "label": "obs-utils-dnd5e.labels.prototypeToken-bar1-attribute"
-  },
-  {
-    "value": "prototypeToken.bar2.attribute",
-    "label": "obs-utils-dnd5e.labels.prototypeToken-bar2-attribute"
-  },
-  {
-    "value": "prototypeToken.light.alpha",
-    "label": "obs-utils-dnd5e.labels.prototypeToken-light-alpha"
-  },
-  {
-    "value": "prototypeToken.light.angle",
-    "label": "obs-utils-dnd5e.labels.prototypeToken-light-angle"
-  },
-  {
-    "value": "prototypeToken.light.bright",
-    "label": "obs-utils-dnd5e.labels.prototypeToken-light-bright"
-  },
-  {
-    "value": "prototypeToken.light.coloration",
-    "label": "obs-utils-dnd5e.labels.prototypeToken-light-coloration"
-  },
-  {
-    "value": "prototypeToken.light.dim",
-    "label": "obs-utils-dnd5e.labels.prototypeToken-light-dim"
-  },
-  {
-    "value": "prototypeToken.light.attenuation",
-    "label": "obs-utils-dnd5e.labels.prototypeToken-light-attenuation"
-  },
-  {
-    "value": "prototypeToken.light.luminosity",
-    "label": "obs-utils-dnd5e.labels.prototypeToken-light-luminosity"
-  },
-  {
-    "value": "prototypeToken.light.saturation",
-    "label": "obs-utils-dnd5e.labels.prototypeToken-light-saturation"
-  },
-  {
-    "value": "prototypeToken.light.contrast",
-    "label": "obs-utils-dnd5e.labels.prototypeToken-light-contrast"
-  },
-  {
-    "value": "prototypeToken.light.shadows",
-    "label": "obs-utils-dnd5e.labels.prototypeToken-light-shadows"
-  },
-  {
-    "value": "prototypeToken.light.animation.type",
-    "label": "obs-utils-dnd5e.labels.prototypeToken-light-animation-type"
-  },
-  {
-    "value": "prototypeToken.light.animation.speed",
-    "label": "obs-utils-dnd5e.labels.prototypeToken-light-animation-speed"
-  },
-  {
-    "value": "prototypeToken.light.animation.intensity",
-    "label": "obs-utils-dnd5e.labels.prototypeToken-light-animation-intensity"
-  },
-  {
-    "value": "prototypeToken.light.animation.reverse",
-    "label": "obs-utils-dnd5e.labels.prototypeToken-light-animation-reverse"
-  },
-  {
-    "value": "prototypeToken.light.darkness.min",
-    "label": "obs-utils-dnd5e.labels.prototypeToken-light-darkness-min"
-  },
-  {
-    "value": "prototypeToken.light.darkness.max",
-    "label": "obs-utils-dnd5e.labels.prototypeToken-light-darkness-max"
-  },
-  {
-    "value": "prototypeToken.sight.enabled",
-    "label": "obs-utils-dnd5e.labels.prototypeToken-sight-enabled"
-  },
-  {
-    "value": "prototypeToken.sight.range",
-    "label": "obs-utils-dnd5e.labels.prototypeToken-sight-range"
-  },
-  {
-    "value": "prototypeToken.sight.angle",
-    "label": "obs-utils-dnd5e.labels.prototypeToken-sight-angle"
-  },
-  {
-    "value": "prototypeToken.sight.visionMode",
-    "label": "obs-utils-dnd5e.labels.prototypeToken-sight-visionMode"
-  },
-  {
-    "value": "prototypeToken.sight.attenuation",
-    "label": "obs-utils-dnd5e.labels.prototypeToken-sight-attenuation"
-  },
-  {
-    "value": "prototypeToken.sight.brightness",
-    "label": "obs-utils-dnd5e.labels.prototypeToken-sight-brightness"
-  },
-  {
-    "value": "prototypeToken.sight.saturation",
-    "label": "obs-utils-dnd5e.labels.prototypeToken-sight-saturation"
-  },
-  {
-    "value": "prototypeToken.sight.contrast",
-    "label": "obs-utils-dnd5e.labels.prototypeToken-sight-contrast"
-  },
-  {
-    "value": "prototypeToken.detectionModes",
-    "label": "obs-utils-dnd5e.labels.prototypeToken-detectionModes"
-  },
-  {
-    "value": "prototypeToken.flags",
-    "label": "obs-utils-dnd5e.labels.prototypeToken-flags"
-  },
-  {
-    "value": "prototypeToken.randomImg",
-    "label": "obs-utils-dnd5e.labels.prototypeToken-randomImg"
   },
   {
     "value": "items",
@@ -1092,27 +916,7 @@
     "label": "obs-utils-dnd5e.labels.flags"
   },
   {
-    "value": "_stats.systemId",
-    "label": "obs-utils-dnd5e.labels._stats-systemId"
-  },
-  {
-    "value": "_stats.systemVersion",
-    "label": "obs-utils-dnd5e.labels._stats-systemVersion"
-  },
-  {
-    "value": "_stats.coreVersion",
-    "label": "obs-utils-dnd5e.labels._stats-coreVersion"
-  },
-  {
-    "value": "_stats.createdTime",
-    "label": "obs-utils-dnd5e.labels._stats-createdTime"
-  },
-  {
-    "value": "_stats.modifiedTime",
-    "label": "obs-utils-dnd5e.labels._stats-modifiedTime"
-  },
-  {
-    "value": "_stats.lastModifiedBy",
-    "label": "obs-utils-dnd5e.labels._stats-lastModifiedBy"
+    "value": "_id",
+    "label": "obs-utils-dnd5e.labels._id"
   }
 ]

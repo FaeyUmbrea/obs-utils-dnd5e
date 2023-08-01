@@ -17,7 +17,9 @@
       "discord": "Faey#0001"
     }
   ],
-  "esmodules": ["index.js"],
+  "esmodules": [
+    "index.js"
+  ],
   "url": "This is auto replaced",
   "socket": true,
   "manifest": "This is auto replaced",
@@ -45,10 +47,15 @@
         "compatibility": {
           "minimum": "2.4.0"
         }
-      },
+      }
+    ],
+    "systems": [
       {
         "id": "dnd5e",
-        "type": "system"
+        "type": "system",
+        "compatibility": {
+          "minimum": "2.2.2"
+        }
       }
     ]
   }
